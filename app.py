@@ -82,17 +82,17 @@ def sidebar():
             set_openai_api_key(api_key_input)
 
         st.markdown("---")
-        st.markdown("# About")
+        # st.markdown("# About")
         st.markdown(
             "This tool allows you to chat with your "
             "documents as well as directly get Google and Youtube search results. "
         )
-        st.markdown(
-            "This tool is a work in progress. "
-            "You can contribute to the project on [GitHub]() "
-            "with your feedback and suggestions💡"
+        # st.markdown(
+            # "This tool is a work in progress. "
+            # "You can contribute to the project on [GitHub]() "
+            # "with your feedback and suggestions💡"
         )
-        st.markdown("Made by [Arjun]()")
+        # st.markdown("Made by [Arjun]()")
         st.markdown("---")
 
 
