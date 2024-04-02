@@ -91,7 +91,7 @@ def sidebar():
             # "This tool is a work in progress. "
             # "You can contribute to the project on [GitHub]() "
             # "with your feedback and suggestions💡"
-        )
+        # )
         # st.markdown("Made by [Arjun]()")
         st.markdown("---")
 
